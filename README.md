@@ -7,3 +7,7 @@ For my research I am comparing different songs from the duo Simon and Garfunkel 
 At first I would like to research the most popular songs from Simon and Garfunkel. What is that thing that makes the songs more popular than least popular songs? And I would like to know if their solo careers were as popular as when they were a duo and what elements of their styles are the same. After this, I am going to compare the most popular songs with the album NSG by Nick & Simon. They did their own research about Simon and Garfunkel and made an album inspired by the songs of the duo. In my comparison I would like to see what Nick & Simon took from the style of Simon and Garfunkel. Which elements stayed the same and which elements are where did they put their own style in the songs?
 
 A typical song from Simon and Garfunkel is ‘The sound of Silence’. In this song the message is very clear and the sound is very Simon and Garfunkel, calm with multiple voices. An atypical song is ‘The only living boy in New York’. This is an atypical song not because of the sound, but because of the lyrics. There is not a big message or beautiful words, there is repetition in the text and there are unanswered questions.
+
+# ggplot
+
+I did not manage to make a ggplot in R. When I try to put a playlist in R I get the error: could not find function "get_playlist_audio_features". I installed the packages 'Tidyverse' and 'Spotifyr'. And my Spotify ID and Secret are also in R. 
