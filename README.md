@@ -1,3 +1,5 @@
+DON'T SHOW THIS REPOSITORY IN CLASS
+
 ---
 Title: "Simon and Garfunkel"
 output: flexdashboard::flex_dashboard
@@ -17,7 +19,7 @@ A typical song from Simon and Garfunkel is ‘The sound of Silence’. In this s
 Column {.tabset}
 -------------------------------------
 
-# Visualisation
+# Visualisation GGPLOT
 
 In the ggplot SaGeAG I compared the songs of Simon and Garfunkel with the songs from Art Garfunkel. You can see that most of the dots are in the same area. This means that the songs of Art Garfunkel have approximately the same enery and speechiness. However, you can also see that Simon and Garfunkel had some songs with more enery or more speechiness and Art Garfunkel stayed approximately in the same area. 
 The interesting thing thing about the plot SaGePS is that one dot that has far more speechiness than the other songs. I would like to investigate which song that is. When you look at the rest of the plot, you can see that the songs from both artists are in the same area if you look at energy and speechiness.
